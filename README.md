@@ -1,4 +1,4 @@
-![307879301-133ae790-015e-426e-acef-2102eb443ab3](https://github.com/plants8332/plants8332/assets/78642947/7f346c30-b14f-4634-b228-e6e28aeb8e5d)
+
 
 ### Skills
 <p align="left">
