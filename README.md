@@ -8,7 +8,7 @@ I have been writing code for 5 years and I have been enjoying since.
 
 * 🌍  I'm based in Ankara, Turkey
 * 🖥️  See my portfolio at [plants8332.github.io](http://plants8332.github.io/)
-* 🧠  I'm learning blockchains, advanced roblox scripting, discord bot development.
+* 🧠  I'm learning blockchains, reverse engineering, advanced roblox scripting and discord bot development.
 
 ### Skills
 
