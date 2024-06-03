@@ -4,7 +4,7 @@ Hello there! I'm plants8332.
 Programmer
 ----------
 
-I have been writing code for 5 years and I have been enjoying since.
+I have been writing code for 5 years and I have been enjoying since and I also write Luau.
 
 * 🌍  I'm based in Ankara, Turkey
 * 🖥️  See my portfolio at [plants8332.github.io](http://plants8332.github.io/)
