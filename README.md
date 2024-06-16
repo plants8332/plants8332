@@ -4,6 +4,7 @@ I'm someone who is passionate about Open Source Softwares, GNU/Linux, Computer 
 - 🌱 I’m currently learning Android/Linux kernels, Assembly, a bit of Reverse Engineering and Algorithms.
 - 📫 You can reach me and contact me from the socials section under below.
 _________
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### Skills
 <p align="left">
