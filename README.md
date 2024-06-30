@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm someone who is passionate about Open Source Softwares, GNU/Linux, Computer Science and Programming.
-- 🔭 I’m currently working on my Python projects (blockchains, discord bots and overall API related stuff) and 
+- 🔭 I’m currently working on my Python projects (blockchains, discord bots and overall API related stuff) and some math to understand cs.
 - 🌱 I’m currently learning Android/Linux kernels, Assembly, a bit of Reverse Engineering and Algorithms.
 - 📫 You can reach me and contact me from the socials section under below.
 _________
