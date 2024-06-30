@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm someone who is passionate about Open Source Softwares, GNU/Linux, Computer Science and Programming.
-- 🔭 I’m currently working on my Python projects (blockchains, discord bots and overall API related stuff) and some math to understand cs.
+- 🔭 I’m currently working on my Python projects (blockchains, discord bots and overall API related stuff)
 - 🌱 I’m currently learning Android/Linux kernels, Assembly, a bit of Reverse Engineering and Algorithms.
 - 📫 You can reach me and contact me from the socials section under below.
 _________
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![](https://komarev.com/ghpvc/?username=plants8332&style=flat-square&color=green)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![](https://komarev.com/ghpvc/?username=plants8332&style=flat-square&color=green) ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?logo=xiaomi&logoColor=white)
 
 ### Skills
 <p align="left">
